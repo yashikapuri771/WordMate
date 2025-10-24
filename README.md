@@ -4,7 +4,7 @@
 
 This project demonstrates the use of **Long Short-Term Memory (LSTM)** networks for **Next-Word Prediction**, a natural language processing (NLP) task. The goal is to predict the next word in a given sequence based on previous context, using a deep learning approach.
 
-### WEB LINK : [https://word-predictor.streamlit.app/]
+
 ## Learning Approach
 
 ### 1. **Problem Definition**
